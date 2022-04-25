@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="info_group">Nhóm 1\n Tên thành viên: \n1. \n2. \n3.</string>
+    <string name="info_member">1. \n2. \n3.</string>
+</resources>
